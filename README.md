@@ -8,6 +8,8 @@
 
 <img width="599" alt="204750979-3c06dc9f-87fd-40b1-8087-ad6efff91c00" src="https://user-images.githubusercontent.com/115542704/205072862-f8fc5e19-eb60-4eb8-bd72-3dea85fcf30a.png">
 
+## Jawab
+
 Masukan input sebagai berikut:
 
 ```python
@@ -29,7 +31,7 @@ def d(s):
 d = lambda s: "".join(set(s))
 print(d("buku"))
 ```
-Maka outputnya akan jadi seperti ini:
+## Output:
 
 <img width="419" alt="ss 19" src="https://user-images.githubusercontent.com/115542704/205075086-b76c06e6-e36b-4a6e-bf78-888d71113dfd.png">
 
@@ -63,7 +65,7 @@ Maka outputnya akan jadi seperti ini:
 
 
 
-# output 
+## Output:
 ini adalah output apabila memilih tambah (t)
 
 <img width="286" alt="t 1" src="https://user-images.githubusercontent.com/115542704/205082552-70bec59a-8461-4c07-90b8-f399bfb025fa.png">
