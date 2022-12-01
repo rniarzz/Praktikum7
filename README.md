@@ -105,7 +105,26 @@ def hapus():
         print ( "Nama {0} Tidak Ditemukan" . format ( nama ))
 ```
 
+- Untuk program mengubah data kita gunakan fungsi `def ubah():`
+
+Berikut programnya:
+```python
+def ubah():
+    print ( "Ubah Data" )
+    nama = input("Masukkan Nama Mahasiswa   : ")
+    if nama in  x . keys ():
+        nim = input("Masukkan NIM              : ")
+        tugas = int(input("Masukkan Nilai Tugas      : "))
+        uts = int(input("Masukkan Nilai UTS        : "))
+        uas = int(input("Masukkan Nilai UAS        : "))
+        akhir = tugas * 30/100 + uts * 35/100 + uas * 35/100
+        x[nama] = nim , tugas, uts , uas , akhir
+    else :
+        print ( "Nama{0} Tidak Ditemukan" . format(nama ))
+```
+
 - 
+
 
 
 
