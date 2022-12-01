@@ -125,10 +125,13 @@ def ubah():
 
 - Penggunaan **while True**
 
-  *while True* berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
+  **while True** berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
 
 - Kemudian saya membuat looping agar program terus berjalan
-- 
+- Variable c dideklarasikan untuk inputan daftar menu yang mau dipilih
+- Penggunaan **if c.lower()** (Tidak harus menggunakan variable c, jadi kita bebas mau menggunakan variable apapun)
+
+  **if c.lower()** fungsinya apabila user menginputkan dengan huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai
 
 
 
