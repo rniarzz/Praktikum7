@@ -155,7 +155,10 @@ while True:
         print("                                 PROGRAM TELAH SELESAI                    ")
         print("---------------------------------------------------------------------------------")
         break
+```
 
+- Dan saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
+```python
     else:
         print()
         print("Kode yang anda masukkan salah!")
