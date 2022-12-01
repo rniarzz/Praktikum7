@@ -127,11 +127,39 @@ def ubah():
 
   **while True** berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
 
-- Kemudian saya membuat looping agar program terus berjalan
+- Kemudian saya membuat looping agar program terus berjalan, untuk berhentinya gunakan perintah `break` di akhir program while true
 - Variable c dideklarasikan untuk inputan daftar menu yang mau dipilih
 - Penggunaan **if c.lower()** (Tidak harus menggunakan variable c, jadi kita bebas mau menggunakan variable apapun)
 
   **if c.lower()** fungsinya apabila user menginputkan dengan huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai
+
+Berikut programnya:
+```python
+while True:
+    print("")
+    print("===========================")
+    print("|   Program Input Nilai   |")
+    print("===========================")
+    c = input("L)ihat, T)ambah, U)bah, H)apus, K)eluar: ")
+    if c.lower() == "l":
+        tampilkan()
+    elif c.lower() == "t":
+        tambah()
+    elif c.lower() == "u":
+        ubah()
+    elif c.lower() == "h":
+        hapus()
+    elif c.lower() == "k":
+        print()
+        print("---------------------------------------------------------------------------------")
+        print("                                 PROGRAM TELAH SELESAI                    ")
+        print("---------------------------------------------------------------------------------")
+        break
+
+    else:
+        print()
+        print("Kode yang anda masukkan salah!")
+```
 
 
 
