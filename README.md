@@ -158,6 +158,8 @@ while True:
 ```
 
 - Dan saya juga menggunakan else di akhir program yang digunakan apabila salah memasukkan pilihan inputan
+
+Berikut programnya:
 ```python
     else:
         print()
