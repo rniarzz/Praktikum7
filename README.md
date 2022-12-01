@@ -47,8 +47,23 @@ print(d("buku"))
 mahasiswa = {}
 ```
 - Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci `def ():`
-- Untuk program menambah data kita gunakan fungsi `def tambah():`
-- 
+- Untuk program menambah data kita gunakan fungsi `def tambah():`, berikut programnya:
+```python
+def tambah():
+    print("Tambah Data")
+    nama = input("Masukkan Nama Mahasiswa   : ")
+    nim = input("Masukkan NIM              : ")
+    tugas = int(input("Masukkan Nilai Tugas      : "))
+    uts = int(input("Masukkan Nilai UTS        : "))
+    uas = int(input("Masukkan Nilai UAS        : "))
+    akhir = tugas * 30/100 + uts * 35/100 + uas * 35/100
+    x[nama] = nim , tugas, uts , uas , akhir
+```
+
+
+- Lalu saya membuat format if untuk memasukkan pilihan
+```python
+
 
 
 
