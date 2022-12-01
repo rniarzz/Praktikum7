@@ -61,7 +61,7 @@ def tambah():
 ```
 
 - Untuk program menampilkan data kita gunakan fungsi `def tampilkan ():`
-- Lalu saya membuat format if untuk memasukkan pilihan
+- Lalu saya membuat format `if else` untuk membuat 2 kondisi, dimana `if` disini digunakan untuk menampilkan data-data dalam tabel yang sudah diinputkan, sedangkan `else` disini digunakan untuk menampilkan sebuah tabel yang belum diinputkan data-data
 ```python
 def tampilkan():
     if x.items():
