@@ -51,7 +51,7 @@ mahasiswa = {}
 
 
 
-Berikut programnya:
+  Berikut programnya:
 ```python
 def tambah():
     print("Tambah Data")
@@ -67,7 +67,7 @@ def tambah():
 - Untuk program menampilkan data kita gunakan fungsi `def tampilkan():`
 - Lalu saya membuat format `if else` untuk membuat 2 kondisi, dimana `if` disini digunakan untuk menampilkan tabel yang sudah diinputkan data-data sebelumnya, sedangkan `else` disini digunakan untuk menampilkan sebuah tabel yang belum diinputkan data-data
 
-Berikut programnya:
+  Berikut programnya:
 ```python
 def tampilkan():
     if x.items():
@@ -94,7 +94,7 @@ def tampilkan():
 
 - Untuk program menghapus data kita gunakan fungsi `def hapus():`
 
-Berikut programnya:
+  Berikut programnya:
 ```python
 def hapus():
     print ( "Hapus Data" )
@@ -107,7 +107,7 @@ def hapus():
 
 - Untuk program mengubah data kita gunakan fungsi `def ubah():`
 
-Berikut programnya:
+  Berikut programnya:
 ```python
 def ubah():
     print ( "Ubah Data" )
@@ -125,9 +125,9 @@ def ubah():
 
 - Penggunaan **while True**
 
-*while True* berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
+  *while True* berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
 
-- Saya membuat looping agar program terus berjalan
+- Kemudian saya membuat looping agar program terus berjalan
 - 
 
 
