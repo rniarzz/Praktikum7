@@ -2,9 +2,9 @@
 # NIM: 312210337
 # Kelas: TI.22.A3
 
-# PERTEMUAN 11
-# Latihan
-# Soal
+## PERTEMUAN 11
+## Latihan
+## Soal
 
 <img width="599" alt="204750979-3c06dc9f-87fd-40b1-8087-ad6efff91c00" src="https://user-images.githubusercontent.com/115542704/205072862-f8fc5e19-eb60-4eb8-bd72-3dea85fcf30a.png">
 
