@@ -41,3 +41,51 @@ Maka outputnya akan jadi seperti ini:
 ## jawab
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# output 
+ini adalah output apabila memilih tambah (t)
+
+<img width="286" alt="t 1" src="https://user-images.githubusercontent.com/115542704/205082552-70bec59a-8461-4c07-90b8-f399bfb025fa.png">
+
+ini adalah output apabila memilih  diubah (u)
+
+<img width="509" alt="u 1" src="https://user-images.githubusercontent.com/115542704/205082674-258149ac-46d9-4548-a7dc-27d5bd9cc298.png">
+
+ini adalah output apabila memilih lihat (l)
+
+<img width="500" alt="l 1" src="https://user-images.githubusercontent.com/115542704/205082797-771170f2-e126-4d37-94b4-f2c8bbe5ec3a.png">
+
+
+ini adalah output apabila memilih hapus (h) 
+
+<img width="505" alt="h 1" src="https://user-images.githubusercontent.com/115542704/205082847-cf36fc1a-aff2-4598-a7ea-b2436865f68c.png">
+
+ini adalah output apabila memilih keluar (k)
+
+<img width="507" alt="k 1" src="https://user-images.githubusercontent.com/115542704/205082898-e0889652-108c-4b10-b7f7-ca26bd1590fc.png">
+
+## SEKIAN TERIMAKASIH
+
+
+
