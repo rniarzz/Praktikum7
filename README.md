@@ -70,7 +70,7 @@ ini adalah output apabila memilih tambah (t)
 
 <img width="286" alt="t 1" src="https://user-images.githubusercontent.com/115542704/205082552-70bec59a-8461-4c07-90b8-f399bfb025fa.png">
 
-ini adalah output apabila memilih  dilihat (l)
+ini adalah output apabila memilih lihat (l)
 
 <img width="500" alt="l 1" src="https://user-images.githubusercontent.com/115542704/205083193-7ed44a8e-f683-43df-b603-e859cad1ac4c.png">
 
