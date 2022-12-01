@@ -4,11 +4,9 @@
 
 # PERTEMUAN 11
 # Latihan
-
 # Soal
 
 ![Gambar WhatsApp 2022-12-01 pukul 20 59 46](https://user-images.githubusercontent.com/115542704/205072115-e6e81a4c-a756-45a9-8a85-f736149f7c3e.jpg)
-
 
 Masukan input sebagai berikut:
 
@@ -46,7 +44,6 @@ for key,val in telepon.items():
     print("%s \t| %s " % (key,val))
     
 ```
-
 Maka outputnya akan jadi seperti ini:
 
 <img width="833" alt="ss18" src="https://user-images.githubusercontent.com/115542704/205069437-a1427f27-1ba4-406f-a7a8-8d8c413ee2d1.png">
