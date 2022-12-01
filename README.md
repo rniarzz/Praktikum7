@@ -40,8 +40,14 @@ print(d("buku"))
 
 <img width="554" alt="204752446-3289e1d2-7395-4f23-810c-eaa1c4c8323b" src="https://user-images.githubusercontent.com/115542704/205073183-0b606f09-d0fd-4338-ac58-8867f47281e8.png">
 
-## jawab
+## Jawab
 
+- Pertama buat dahulu **dictionary** kosong untuk menampung data-data yang ingin diinputkan
+```python
+mahasiswa = {}
+```
+- Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci def :
+- Untuk program menambah data kita gunakan fungsi `
 
 
 
