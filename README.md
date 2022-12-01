@@ -123,6 +123,11 @@ def ubah():
         print ( "Nama{0} Tidak Ditemukan" . format(nama ))
 ```
 
+- Penggunaan **while True**
+
+*while True* berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
+
+- Saya membuat looping agar program terus berjalan
 - 
 
 
