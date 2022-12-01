@@ -11,42 +11,28 @@
 Masukan input sebagai berikut:
 
 ```python
-telepon = {
-    'Thor' : '086969969',
-    'Loki' : '08234562'
-}
+import math
+def a(x):
+  return x**2
+a = lambda x : x**2
+print(a(2))
+def b(x, y):
+  return math.sqrt(x**2 + y**2)
+b = lambda x, y : x ** 2 + y ** 2
+print(b(2, 2))
+def c(*args):
+  return sum(args)/len(args)
+c = lambda *args : sum(args)/len(args)
+print(c(1,2,3,4,5))
+def d(s):
+  return "".join(set(s))
+d = lambda s: "".join(set(s))
+print(d("buku"))
 
-print(telepon['Thor'])
-
-print("\n")
-
-telepon['Heimdal'] = '0813345643'
-telepon['Surtr'] = '0824574123'
-
-print(telepon.keys())
-print(telepon.values())
-
-print("\n")
-
-print("Nama\t| Nomor Telepon ")
-print("======================")
-
-for nama,nomor in telepon.items():
-    print("%s \t| %s " % (nama,nomor))
-
-print("\n")
-
-del telepon['Heimdal']
-
-print("Nama\t| Nomor Telepon")
-print("======================")
-for key,val in telepon.items():
-    print("%s \t| %s " % (key,val))
-    
 ```
 Maka outputnya akan jadi seperti ini:
 
-<img width="833" alt="ss18" src="https://user-images.githubusercontent.com/115542704/205069437-a1427f27-1ba4-406f-a7a8-8d8c413ee2d1.png">
+<img width="419" alt="ss 19" src="https://user-images.githubusercontent.com/115542704/205075086-b76c06e6-e36b-4a6e-bf78-888d71113dfd.png">
 
 # Tugas Praktikum
 # Soal
