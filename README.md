@@ -47,7 +47,11 @@ print(d("buku"))
 mahasiswa = {}
 ```
 - Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci `def ():`
-- Untuk program menambah data kita gunakan fungsi `def tambah():`, berikut programnya:
+- Untuk program menambah data kita gunakan fungsi `def tambah():`
+
+
+
+Berikut programnya:
 ```python
 def tambah():
     print("Tambah Data")
@@ -60,8 +64,10 @@ def tambah():
     x[nama] = nim , tugas, uts , uas , akhir
 ```
 
-- Untuk program menampilkan data kita gunakan fungsi `def tampilkan ():`
+- Untuk program menampilkan data kita gunakan fungsi `def tampilkan():`
 - Lalu saya membuat format `if else` untuk membuat 2 kondisi, dimana `if` disini digunakan untuk menampilkan tabel yang sudah diinputkan data-data sebelumnya, sedangkan `else` disini digunakan untuk menampilkan sebuah tabel yang belum diinputkan data-data
+
+Berikut programnya:
 ```python
 def tampilkan():
     if x.items():
@@ -85,6 +91,21 @@ def tampilkan():
         print("|                                TIDAK ADA DATA                                 |")
         print("---------------------------------------------------------------------------------")
 ```
+
+- Untuk program menghapus data kita gunakan fungsi `def hapus():`
+
+Berikut programnya:
+```python
+def hapus():
+    print ( "Hapus Data" )
+    nama = input("Masukkan Nama Mahasiswa   : ")
+    if  nama in  x . keys ():
+        del  x [ nama ]
+    else :
+        print ( "Nama {0} Tidak Ditemukan" . format ( nama ))
+```
+
+- 
 
 
 
