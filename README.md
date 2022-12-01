@@ -46,8 +46,9 @@ print(d("buku"))
 ```python
 mahasiswa = {}
 ```
-- Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci def :
-- Untuk program menambah data kita gunakan fungsi `
+- Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci `def ():`
+- Untuk program menambah data kita gunakan fungsi `def tambah():`
+- 
 
 
 
