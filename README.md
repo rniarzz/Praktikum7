@@ -5,9 +5,7 @@
 # PERTEMUAN 11
 # Latihan
 # Soal
-
 ![Gambar WhatsApp 2022-12-01 pukul 20 59 46](https://user-images.githubusercontent.com/115542704/205072115-e6e81a4c-a756-45a9-8a85-f736149f7c3e.jpg)
-
 Masukan input sebagai berikut:
 
 ```python
