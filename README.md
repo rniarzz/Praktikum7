@@ -46,10 +46,9 @@ print(d("buku"))
 ```python
 mahasiswa = {}
 ```
+
 - Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci `def ():`
 - Untuk program menambah data kita gunakan fungsi `def tambah():`
-
-
 
   Berikut programnya:
 ```python
@@ -61,7 +60,7 @@ def tambah():
     uts = int(input("Masukkan Nilai UTS        : "))
     uas = int(input("Masukkan Nilai UAS        : "))
     akhir = tugas * 30/100 + uts * 35/100 + uas * 35/100
-    x[nama] = nim , tugas, uts , uas , akhir
+    mahasiswa[nama] = nim , tugas, uts , uas , akhir
 ```
 
 - Untuk program menampilkan data kita gunakan fungsi `def tampilkan():`
@@ -77,7 +76,7 @@ def tampilkan():
         print("| No |      Nama      |     NIM     |  Tugas  |   UTS   |   UAS   |    Akhir    |")
         print("---------------------------------------------------------------------------------")
         i = 0                                                                         
-        for b in x.items():                                                             
+        for b in mahasiswa.items():                                                             
              i += 1
              print("| {no:2d} | {0:14s} | {1:11s} | {2:7d} | {3:7d} | {4:7d} | {5:7f}   |"
                 . format ( b [ 0 ][: 14 ], b [ 1 ][ 0 ], b [ 1 ][ 1 ], b [ 1 ][ 2 ], b [ 1 ][ 3 ], b [ 1 ][ 4 ] , no = i ))
@@ -99,8 +98,8 @@ def tampilkan():
 def hapus():
     print ( "Hapus Data" )
     nama = input("Masukkan Nama Mahasiswa   : ")
-    if  nama in  x . keys ():
-        del  x [ nama ]
+    if  nama in  mahasiswa . keys ():
+        del  mahasiswa [ nama ]
     else :
         print ( "Nama {0} Tidak Ditemukan" . format ( nama ))
 ```
@@ -112,13 +111,13 @@ def hapus():
 def ubah():
     print ( "Ubah Data" )
     nama = input("Masukkan Nama Mahasiswa   : ")
-    if nama in  x . keys ():
+    if nama in  mahasiswa . keys ():
         nim = input("Masukkan NIM              : ")
         tugas = int(input("Masukkan Nilai Tugas      : "))
         uts = int(input("Masukkan Nilai UTS        : "))
         uas = int(input("Masukkan Nilai UAS        : "))
         akhir = tugas * 30/100 + uts * 35/100 + uas * 35/100
-        x[nama] = nim , tugas, uts , uas , akhir
+        mahasiswa[nama] = nim , tugas, uts , uas , akhir
     else :
         print ( "Nama{0} Tidak Ditemukan" . format(nama ))
 ```
@@ -165,31 +164,6 @@ Berikut programnya:
         print()
         print("Kode yang anda masukkan salah!")
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Output:
 ini adalah output apabila memilih tambah (t)
