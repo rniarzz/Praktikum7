@@ -208,6 +208,10 @@ Klik k/K jika ingin mengakhiri program
 
 <img width="506" alt="k 3" src="https://user-images.githubusercontent.com/115542704/205201368-4cc2f841-ea90-4a15-9346-46bd84dc328f.png">
 
+## Flowchart
+
+![flowchart (1)](https://user-images.githubusercontent.com/115542704/205225231-54336b6e-0818-4492-992d-6cd965b3bb54.png)
+
 ## SEKIAN TERIMAKASIH
 
 
