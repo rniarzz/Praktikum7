@@ -171,6 +171,22 @@ Berikut programnya:
         print("Kode yang anda masukkan salah!")
 ```
 
+Jalankan code dan akan muncul pilihan seperti ini
+
+<img width="257" alt="w " src="https://user-images.githubusercontent.com/115542704/205222609-51f8d279-89eb-4a80-9b3e-8b39e393a848.png">
+
+lalu ketik huruf yang ingin diinput sesuai menu berikut:
+
+L = untuk melihat/menampilkan data
+
+T = untuk data yang ditambahkan
+
+U = untuk mengubah data
+
+H = untuk menghapus data
+
+K = untuk menutup program
+
 ## Output:
 ini adalah output apabila memilih tambah (t)
 
