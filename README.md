@@ -69,7 +69,7 @@ def tambah():
   Berikut programnya:
 ```python
 def tampilkan():
-    if x.items():
+    if mahasiswa.items():
         print("---------------------------------------------------------------------------------")
         print("\n                               DAFTAR NILAI MAHASISWA                    ")
         print("---------------------------------------------------------------------------------")
