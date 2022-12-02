@@ -187,7 +187,7 @@ ini adalah output apabila memilih hapus (h)
 
 ini adalah output apabila memilih keluar (k)
 
-<img width="507" alt="k 1" src="https://user-images.githubusercontent.com/115542704/205082898-e0889652-108c-4b10-b7f7-ca26bd1590fc.png">
+<img width="506" alt="k 3" src="https://user-images.githubusercontent.com/115542704/205201368-4cc2f841-ea90-4a15-9346-46bd84dc328f.png">
 
 ## SEKIAN TERIMAKASIH
 
