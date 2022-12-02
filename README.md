@@ -18,14 +18,17 @@ def a(x):
   return x**2
 a = lambda x : x**2
 print(a(2))
+
 def b(x, y):
   return math.sqrt(x**2 + y**2)
 b = lambda x, y : x ** 2 + y ** 2
 print(b(2, 2))
+
 def c(*args):
   return sum(args)/len(args)
 c = lambda *args : sum(args)/len(args)
 print(c(1,2,3,4,5))
+
 def d(s):
   return "".join(set(s))
 d = lambda s: "".join(set(s))
@@ -50,7 +53,7 @@ mahasiswa = {}
 - Untuk membuat fungsi, dalam python sebuah fungsi didefinisikan menggunakan kata kunci `def ():`
 - Untuk program menambah data kita gunakan fungsi `def tambah():`
 
-  Berikut programnya:
+Berikut programnya:
 ```python
 def tambah():
     print("Tambah Data")
@@ -66,7 +69,7 @@ def tambah():
 - Untuk program menampilkan data kita gunakan fungsi `def tampilkan():`
 - Lalu saya membuat format `if else` untuk membuat 2 kondisi, dimana `if` disini digunakan untuk menampilkan tabel yang sudah diinputkan data-data sebelumnya, sedangkan `else` disini digunakan untuk menampilkan sebuah tabel yang belum diinputkan data-data
 
-  Berikut programnya:
+Berikut programnya:
 ```python
 def tampilkan():
     if mahasiswa.items():
@@ -93,7 +96,7 @@ def tampilkan():
 
 - Untuk program menghapus data kita gunakan fungsi `def hapus():`
 
-  Berikut programnya:
+Berikut programnya:
 ```python
 def hapus():
     print ( "Hapus Data" )
@@ -106,7 +109,7 @@ def hapus():
 
 - Untuk program mengubah data kita gunakan fungsi `def ubah():`
 
-  Berikut programnya:
+Berikut programnya:
 ```python
 def ubah():
     print ( "Ubah Data" )
