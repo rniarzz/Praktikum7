@@ -200,11 +200,11 @@ K = untuk menutup program
 
 <img width="509" alt="u 1" src="https://user-images.githubusercontent.com/115542704/205083267-70606bc7-7a04-4ae9-bd38-71cf8af96ada.png">
 
-Klik h/H dan tulis data mana yang ingin Anda hapus 
+- Klik h/H dan tulis data mana yang ingin Anda hapus 
 
 <img width="505" alt="h 1" src="https://user-images.githubusercontent.com/115542704/205082847-cf36fc1a-aff2-4598-a7ea-b2436865f68c.png">
 
-Klik k/K jika ingin mengakhiri program
+- Klik k/K jika ingin mengakhiri program
 
 <img width="506" alt="k 3" src="https://user-images.githubusercontent.com/115542704/205201368-4cc2f841-ea90-4a15-9346-46bd84dc328f.png">
 
